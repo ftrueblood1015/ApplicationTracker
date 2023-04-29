@@ -1,1 +1,8 @@
 Django==4.2
+django-cors-headers==3.14.0
+django-filter==23.1
+django-nose==1.4.7
+django-pgviews==0.5.7
+djangorestframework==3.14.0
+drf-flex-fields==1.0.2
+psycopg2==2.9.6
