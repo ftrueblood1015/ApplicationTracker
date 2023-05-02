@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 secrets.py
 templates/ang/*
+frontend/node_modules/*
+frontend/.angular/*
